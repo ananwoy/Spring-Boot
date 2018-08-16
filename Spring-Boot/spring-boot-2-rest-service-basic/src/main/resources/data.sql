@@ -9,3 +9,6 @@ values(10003,'Arpit', 'P1234567');
 
 insert into student
 values(10004,'Monika', 'Z1234568');
+
+insert into student
+values(10005,'Izaz', 'K1234568');
